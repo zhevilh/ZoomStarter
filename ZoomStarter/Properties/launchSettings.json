@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZoomStarter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\William Flageol\\AppData\\Roaming\\Zoom\\bin_00\\zoom.exe\" \"https://concordia-ca.zoom.us/my/yg.gueheneuc\""
+    }
+  }
+}
